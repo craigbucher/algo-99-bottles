@@ -9,7 +9,7 @@ function bottleSong(bottles) {
     tmpBottles --;	
   }	
   if (tmpBottles === 1){	
-  console.log(`1 bottle of beer on the wall, 1 bottle of beer.\nTake one down	 and pass it around, no more bottles of beer on the wall.\nGo to the store and	 buy some more, ${bottles} bottles of beer on the wall.`);	
+  console.log(`1 bottle of beer on the wall, 1 bottle of beer.\nTake one down	and pass it around, no more bottles of beer on the wall.\nGo to the store and	buy some more, ${bottles} bottles of beer on the wall.`);	
   }	
 };
 
